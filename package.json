@@ -1,0 +1,14 @@
+{
+  "name": "useful-sites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch sass/main.scss css/style.css"
+  },
+  "author": "Natalia Marszalkowska",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
